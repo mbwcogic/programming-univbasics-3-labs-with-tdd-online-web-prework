@@ -1,4 +1,4 @@
-def "./calulator.rb"
+def ./calulator.rb
   first_number
   
 end
